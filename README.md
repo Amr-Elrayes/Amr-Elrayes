@@ -11,39 +11,57 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="184" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="184" height="30" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="184" height="30" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="184" height="30" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="184" height="30" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/amr-elrayes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/chat/u/0/#chat/wt/amrelrayes126@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/amr.elrayes.5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/amr__elrayes?igsh=eHU0cXl4cWo5dzRo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/201064575030" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">💻 Language</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus logo"  />
-  <img width="85" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
-  <img width="85" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
-  <img width="85" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
-  <img width="85" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" alt="dart logo"  />
-  <img width="85" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo"  />
-  <img width="85" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="36" alt="anaconda logo"  />
-  <img width="85" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="36" alt="jupyter logo"  />
-  <img width="85" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" alt="androidstudio logo"  />
-  <img width="85" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="flutter logo"  />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="27" alt="cplusplus logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="27" alt="css3 logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="27" alt="python logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="27" alt="dart logo"  />
+</div>
+
+###
+
+<h3 align="left">🛠  tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="27" alt="vscode logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="27" alt="anaconda logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="27" alt="jupyter logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="27" alt="androidstudio logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="27" alt="flutter logo"  />
 </div>
 
 ###
