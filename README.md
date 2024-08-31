@@ -62,6 +62,12 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="27" alt="androidstudio logo"  />
   <img width="16" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="27" alt="flutter logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="27" alt="xd logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="27" alt="figma logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="27" alt="photoshop logo"  />
 </div>
 
 ###
