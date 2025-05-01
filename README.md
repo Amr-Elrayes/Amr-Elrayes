@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">CS Student From Egypt 🧑🏽‍💻<br>Currently learning Flutter 📱<br>and UI Design 🎨</h2>
+<h2 align="center">CS Student From Egypt 🧑🏽‍💻<br>Currently learning Flutter 📱<br>and UI/UX Design 🎨</h2>
 
 ###
 
